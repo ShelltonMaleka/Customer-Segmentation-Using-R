@@ -56,6 +56,7 @@ Customer-Segmentation-Using-R/
 │   └── recency_vs_monetary.png
 │
 └── README.md
+```
 
 ## Author
 
