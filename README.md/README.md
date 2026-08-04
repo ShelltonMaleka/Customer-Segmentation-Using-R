@@ -56,3 +56,9 @@ Customer-Segmentation-Using-R/
 │   └── recency_vs_monetary.png
 │
 └── README.md
+
+## Author
+
+**Maleka Shellton**
+
+Aspiring Data Scientist | Machine Learning | Python | SQL | Power BI
